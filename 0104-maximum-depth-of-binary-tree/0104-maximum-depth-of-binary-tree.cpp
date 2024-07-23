@@ -15,7 +15,6 @@ public:
         if(root==NULL)return 0;
         int lefth= maxDepth(root->left);
         int righth= maxDepth(root->right);
-        int currheight= max(lefth, righth)+1;
-        return currheight;
+         return (lefth > righth)? lefth+1:righth+1;
     }
 };
