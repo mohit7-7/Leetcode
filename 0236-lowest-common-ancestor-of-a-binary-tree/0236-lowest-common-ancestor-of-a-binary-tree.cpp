@@ -27,7 +27,7 @@ public:
         vector<TreeNode*>path2;
         findpath(root,p,path1);
         findpath(root,q,path2);
-        TreeNode* lca= NULL;
+        TreeNode* lca= root;
         for(int i=0,j=0; i<path1.size() && j<path2.size(); i++,j++){
             if(path1[i]!= path2[j]){
                 return lca;
