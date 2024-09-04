@@ -9,6 +9,9 @@ public:
                 if (i - coins[j] >= 0) {
                     minCoins[i] = min(minCoins[i], 1 + minCoins[i - coins[j]]);
                 }
+                else{
+                    minCoins[i]= minCoins[i];
+                }
             }
         }
 
