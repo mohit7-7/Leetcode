@@ -6,9 +6,12 @@ public:
         int i = 0, j = 0;
         while (i < n1 && j < n2) {
             if (s[i] == t[j]) {
-                i++;  
+                i++;
+                j++;
             }
-            j++;  
+            else{
+                j++; 
+            }
         }
         return i == n1; 
     }
