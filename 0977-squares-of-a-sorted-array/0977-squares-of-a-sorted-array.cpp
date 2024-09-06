@@ -5,12 +5,14 @@ public:
         int i=nums.size()-1;
         int low=0, high= nums.size()-1;
         while(low<=high){
-            if((nums[low]*nums[low]) > (nums[high]*nums[high])){
-                ans[i--]=nums[low]*nums[low];
+            int lowsq= nums[low]*nums[low];
+            int highsq= nums[high]*nums[high];
+            if(lowsq > highsq){
+                ans[i--]=lowsq;
                 low++;
             }
             else{
-                ans[i--]=nums[high]*nums[high];
+                ans[i--]=highsq;
                 high--;
             }
         }
