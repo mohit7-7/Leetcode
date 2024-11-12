@@ -1,15 +1,15 @@
 class Solution {
     void sieveOfEratosthenes(vector<int>& primes,int maxVal){
         bool sieve[maxVal+1];
-        memset(sieve,false,sizeof(sieve));
-        for(int i=2;i*i<maxVal;++i){
-            if(sieve[i]==false){
-                for(int j=2;i*j<maxVal;++j)
-                    sieve[i*j]=true;
+        memset(sieve,true,sizeof(sieve));
+        for(int i=2;i*i<=maxVal;++i){
+            if(sieve[i]==true){
+                for(int j=i*i;j<=maxVal;j=j+i)
+                    sieve[j]=false;
             }
         }
         for(int i=2;i<maxVal;++i)
-            if(sieve[i]==false)
+            if(sieve[i]==true)
                 primes.push_back(i);
     }
 public:
