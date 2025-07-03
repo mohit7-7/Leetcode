@@ -3,7 +3,7 @@ public:
     void makenew(string &s){
         string temp="";
         for(int i=0;i<s.size();i++){
-            temp+= (s[i]+1);
+            temp+= (s[i]-'a'+1)%26+ 'a';
         }
         s+= temp;
     }
