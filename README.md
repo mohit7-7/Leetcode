@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0875-longest-mountain-in-array](https://github.com/mohit7-7/Leetcode/tree/master/0875-longest-mountain-in-array) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/mohit7-7/Leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/mohit7-7/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/mohit7-7/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0875-longest-mountain-in-array](https://github.com/mohit7-7/Leetcode/tree/master/0875-longest-mountain-in-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/mohit7-7/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2479-meeting-rooms-iii](https://github.com/mohit7-7/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/mohit7-7/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0875-longest-mountain-in-array](https://github.com/mohit7-7/Leetcode/tree/master/0875-longest-mountain-in-array) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/mohit7-7/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Memoization
 |  |
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0875-longest-mountain-in-array](https://github.com/mohit7-7/Leetcode/tree/master/0875-longest-mountain-in-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/mohit7-7/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Linked List
 |  |
