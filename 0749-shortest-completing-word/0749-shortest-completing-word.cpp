@@ -1,33 +1,24 @@
 class Solution {
 public:
-
-    bool check(string word,unordered_map<char, int>mp){
-        for(char ch:word){
-            int word= tolower(ch);
-            if(mp.count(word)){
-                mp[word]--;
-                if(mp[word]==0) mp.erase(word);
-            }
-        }
-        if(mp.size()==0) return true;
-        return false;
-    }
     string shortestCompletingWord(string licensePlate, vector<string>& words) {
-        unordered_map<char, int>mp;
-        for(char ch: licensePlate){
-            ch= tolower(ch);
-            if(ch >='a' && ch <='z'){
-                mp[ch]++;
-            }
+        int required[26] = {0};
+        for (char ch : licensePlate) {
+            if (isalpha(ch)) ++required[tolower(ch) - 'a'];
         }
-        string ans;
-        for(int i=0;i<words.size();i++){
-            if(check(words[i],mp)){
-                if(words[i].size()<ans.size() || ans==""){
-                    ans= words[i];
+        string result;
+        for (const string& word : words) {
+            int freq[26] = {0};
+            for (char ch : word) ++freq[ch - 'a'];
+
+            bool valid = true;
+            for (int i = 0; i < 26; ++i) {
+                if (required[i] > freq[i]) {
+                    valid = false;
+                    break;
                 }
             }
+            if (valid && (result.empty() || word.length() < result.length())) result = word;
         }
-        return ans;
+        return result;
     }
 };
