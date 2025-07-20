@@ -1,6 +1,5 @@
 class Solution {
 public:
-
     bool check(string word,unordered_map<char, int>mp){
         for(char ch:word){
             int word= tolower(ch);
@@ -9,8 +8,7 @@ public:
                 if(mp[word]==0) mp.erase(word);
             }
         }
-        if(mp.size()==0) return true;
-        return false;
+        return (mp.size()==0);
     }
     string shortestCompletingWord(string licensePlate, vector<string>& words) {
         unordered_map<char, int>mp;
