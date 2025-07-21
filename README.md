@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0749-shortest-completing-word](https://github.com/mohit7-7/Leetcode/tree/master/0749-shortest-completing-word) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/mohit7-7/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/mohit7-7/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/mohit7-7/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3617-find-the-original-typed-string-i](https://github.com/mohit7-7/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
