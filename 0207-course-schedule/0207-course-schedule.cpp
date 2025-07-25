@@ -19,7 +19,7 @@ public:
         vector<vector<int>>adjlist(n);
         for(auto &edge: edges){
             int u=edge[0], v= edge[1];
-            adjlist[u].push_back(v);
+            adjlist[v].push_back(u);
         }
 
         vector<bool>visited(n,false);
