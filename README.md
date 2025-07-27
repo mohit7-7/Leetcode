@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/mohit7-7/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [3618-find-the-original-typed-string-ii](https://github.com/mohit7-7/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Math
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mohit7-7/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/mohit7-7/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0733-flood-fill](https://github.com/mohit7-7/Leetcode/tree/master/0733-flood-fill) |
 | [0749-shortest-completing-word](https://github.com/mohit7-7/Leetcode/tree/master/0749-shortest-completing-word) |
 | [0875-longest-mountain-in-array](https://github.com/mohit7-7/Leetcode/tree/master/0875-longest-mountain-in-array) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mohit7-7/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/mohit7-7/Leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0209-minimum-size-subarray-sum](https://github.com/mohit7-7/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1813-maximum-erasure-value](https://github.com/mohit7-7/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/mohit7-7/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Sorting
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/mohit7-7/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [3790-fruits-into-baskets-ii](https://github.com/mohit7-7/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Segment Tree
 |  |
