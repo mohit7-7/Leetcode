@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/mohit7-7/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/mohit7-7/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/mohit7-7/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/mohit7-7/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/mohit7-7/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/mohit7-7/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/mohit7-7/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/mohit7-7/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/mohit7-7/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [3618-find-the-original-typed-string-ii](https://github.com/mohit7-7/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Math
 |  |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/mohit7-7/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/mohit7-7/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1813-maximum-erasure-value](https://github.com/mohit7-7/Leetcode/tree/master/1813-maximum-erasure-value) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/mohit7-7/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/mohit7-7/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Sorting
 |  |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/mohit7-7/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/mohit7-7/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [3790-fruits-into-baskets-ii](https://github.com/mohit7-7/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Segment Tree
 |  |
