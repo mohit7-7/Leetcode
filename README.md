@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/mohit7-7/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/mohit7-7/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/mohit7-7/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/mohit7-7/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/mohit7-7/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/mohit7-7/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/mohit7-7/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/mohit7-7/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2479-meeting-rooms-iii](https://github.com/mohit7-7/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/mohit7-7/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/mohit7-7/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Design
 |  |
 | ------- |
