@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/mohit7-7/Leetcode/tree/master/0118-pascals-triangle) |
 | [0413-arithmetic-slices](https://github.com/mohit7-7/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0542-01-matrix](https://github.com/mohit7-7/Leetcode/tree/master/0542-01-matrix) |
 | [0875-longest-mountain-in-array](https://github.com/mohit7-7/Leetcode/tree/master/0875-longest-mountain-in-array) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mohit7-7/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/mohit7-7/Leetcode/tree/master/0066-plus-one) |
+| [0118-pascals-triangle](https://github.com/mohit7-7/Leetcode/tree/master/0118-pascals-triangle) |
 | [0209-minimum-size-subarray-sum](https://github.com/mohit7-7/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/mohit7-7/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/mohit7-7/Leetcode/tree/master/0283-move-zeroes) |
