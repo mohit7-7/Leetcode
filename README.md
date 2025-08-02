@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/mohit7-7/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/mohit7-7/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/mohit7-7/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/mohit7-7/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0749-shortest-completing-word](https://github.com/mohit7-7/Leetcode/tree/master/0749-shortest-completing-word) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/mohit7-7/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/mohit7-7/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/mohit7-7/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohit7-7/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/mohit7-7/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/mohit7-7/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0749-shortest-completing-word](https://github.com/mohit7-7/Leetcode/tree/master/0749-shortest-completing-word) |
 | [1813-maximum-erasure-value](https://github.com/mohit7-7/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/mohit7-7/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/mohit7-7/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/mohit7-7/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0413-arithmetic-slices](https://github.com/mohit7-7/Leetcode/tree/master/0413-arithmetic-slices) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/mohit7-7/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1813-maximum-erasure-value](https://github.com/mohit7-7/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/mohit7-7/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/mohit7-7/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
