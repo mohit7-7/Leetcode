@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/mohit7-7/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0749-shortest-completing-word](https://github.com/mohit7-7/Leetcode/tree/master/0749-shortest-completing-word) |
 | [0868-push-dominoes](https://github.com/mohit7-7/Leetcode/tree/master/0868-push-dominoes) |
+| [1170-shortest-common-supersequence](https://github.com/mohit7-7/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/mohit7-7/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/mohit7-7/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/mohit7-7/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/mohit7-7/Leetcode/tree/master/0542-01-matrix) |
 | [0868-push-dominoes](https://github.com/mohit7-7/Leetcode/tree/master/0868-push-dominoes) |
 | [0875-longest-mountain-in-array](https://github.com/mohit7-7/Leetcode/tree/master/0875-longest-mountain-in-array) |
+| [1170-shortest-common-supersequence](https://github.com/mohit7-7/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/mohit7-7/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/mohit7-7/Leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/mohit7-7/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
