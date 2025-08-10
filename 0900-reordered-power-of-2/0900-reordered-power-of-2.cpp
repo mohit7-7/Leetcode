@@ -1,20 +1,18 @@
 class Solution {
 public:
-    static const unordered_set<string>& buildset() {
-        static unordered_set<string> st; // Created only once
-        if (st.empty()) {
-            for (int p = 0; p <= 29; p++) {
-                string power = to_string(1 << p);
-                sort(power.begin(), power.end());
-                st.insert(power);
-            }
+    vector<int> getcountformat(int n){
+        vector<int>vec(10);
+        while(n){
+            vec[n%10]++;
+            n /=10;
         }
-        return st;
+        return vec;
     }
     bool reorderedPowerOf2(int n) {
-        auto &st= buildset();
-        string input= to_string(n);
-        sort(input.begin(), input.end());
-        return st.count(input);
+        vector<int> input= getcountformat(n);
+        for(int p=0;p<=29;p++){
+            if(input == getcountformat(1<<p)) return true;
+        }
+        return false;
     }
 };
