@@ -1,23 +1,26 @@
 class Solution {
 public:
-    int mod = 1e9+7;
+    int mod= 1e9+7;
     int numberOfWays(int target, int x) {
-        vector<int> poss;
-        for (int i = 1; ; i++) {
-            long long p = 1;
-            for (int k = 0; k < x; k++) p *= i;
-            if (p > target) break;
-            poss.push_back((int)p);
+        vector<int>poss;
+        for(int i=1;target>=pow(i,x);i++){
+            poss.push_back(pow(i,x));
         }
-
-        vector<int> dp(target+1, 0);
-        dp[0] = 1;
-
-        for (int p : poss) {
-            for (int j = target; j >= p; j--) {
-                dp[j] = (dp[j] + dp[j - p]) % mod;
+        int n= poss.size();
+        vector<vector<int>>dp(n+1,vector<int>(target+1,0));
+        for(int i=0;i<=n;i++){
+            dp[i][0]=1;
+        }
+        for(int i=1;i<=n;i++){
+            for(int j=1;j<=target;j++){
+                int take=0;
+                if(poss[i-1]<= j){
+                    take= dp[i-1][j-poss[i-1]];
+                }
+                int nottake = dp[i-1][j];
+                dp[i][j]= (take+nottake)%mod;
             }
         }
-        return dp[target];
+        return dp[n][target]%mod;
     }
 };
