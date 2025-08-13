@@ -1,18 +1,15 @@
 class Solution {
 public:
-    vector<int> getcountformat(int n){
-        vector<int>vec(10);
-        while(n){
-            vec[n%10]++;
-            n /=10;
-        }
-        return vec;
-    }
+    unordered_set<string>st;
     bool reorderedPowerOf2(int n) {
-        vector<int> input= getcountformat(n);
         for(int p=0;p<=29;p++){
-            if(input == getcountformat(1<<p)) return true;
+            string power= to_string(1<<p);
+            sort(begin(power), end(power));
+            st.insert(power);
+            
         }
-        return false;
+
+        string input= to_string(n);
+        return st.count(input);
     }
 };
