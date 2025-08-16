@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/mohit7-7/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/mohit7-7/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/mohit7-7/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/mohit7-7/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/mohit7-7/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/mohit7-7/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/mohit7-7/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/mohit7-7/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mohit7-7/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1813-maximum-erasure-value](https://github.com/mohit7-7/Leetcode/tree/master/1813-maximum-erasure-value) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/mohit7-7/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/mohit7-7/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2479-meeting-rooms-iii](https://github.com/mohit7-7/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/mohit7-7/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
