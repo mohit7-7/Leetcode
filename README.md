@@ -344,4 +344,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/mohit7-7/Leetcode/tree/master/0900-reordered-power-of-2) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/mohit7-7/Leetcode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
