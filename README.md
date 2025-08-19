@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/mohit7-7/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/mohit7-7/Leetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [3618-find-the-original-typed-string-ii](https://github.com/mohit7-7/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
+| [3980-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/mohit7-7/Leetcode/tree/master/3980-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Math
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/mohit7-7/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/mohit7-7/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/mohit7-7/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3980-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/mohit7-7/Leetcode/tree/master/3980-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Hash Table
 |  |
 | ------- |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/mohit7-7/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/mohit7-7/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/mohit7-7/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3980-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/mohit7-7/Leetcode/tree/master/3980-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Sorting
 |  |
 | ------- |
