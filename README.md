@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/mohit7-7/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/mohit7-7/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/mohit7-7/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3974-xor-after-range-multiplication-queries-i](https://github.com/mohit7-7/Leetcode/tree/master/3974-xor-after-range-multiplication-queries-i) |
 ## Array
 |  |
 | ------- |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/mohit7-7/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/mohit7-7/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/mohit7-7/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3974-xor-after-range-multiplication-queries-i](https://github.com/mohit7-7/Leetcode/tree/master/3974-xor-after-range-multiplication-queries-i) |
 | [3980-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/mohit7-7/Leetcode/tree/master/3980-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Hash Table
 |  |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/mohit7-7/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [3974-xor-after-range-multiplication-queries-i](https://github.com/mohit7-7/Leetcode/tree/master/3974-xor-after-range-multiplication-queries-i) |
 ## Queue
 |  |
 | ------- |
