@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/mohit7-7/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mohit7-7/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/mohit7-7/Leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
+| [2205-find-good-days-to-rob-the-bank](https://github.com/mohit7-7/Leetcode/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/mohit7-7/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/mohit7-7/Leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/mohit7-7/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/mohit7-7/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/mohit7-7/Leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/mohit7-7/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2205-find-good-days-to-rob-the-bank](https://github.com/mohit7-7/Leetcode/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/mohit7-7/Leetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/mohit7-7/Leetcode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [3618-find-the-original-typed-string-ii](https://github.com/mohit7-7/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/mohit7-7/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/mohit7-7/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/mohit7-7/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2205-find-good-days-to-rob-the-bank](https://github.com/mohit7-7/Leetcode/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/mohit7-7/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/mohit7-7/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2479-meeting-rooms-iii](https://github.com/mohit7-7/Leetcode/tree/master/2479-meeting-rooms-iii) |
