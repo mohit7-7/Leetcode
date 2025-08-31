@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/mohit7-7/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/mohit7-7/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/mohit7-7/Leetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/mohit7-7/Leetcode/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/mohit7-7/Leetcode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/mohit7-7/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/mohit7-7/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/mohit7-7/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/mohit7-7/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2479-meeting-rooms-iii](https://github.com/mohit7-7/Leetcode/tree/master/2479-meeting-rooms-iii) |
+| [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/mohit7-7/Leetcode/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
 ## Enumeration
 |  |
 | ------- |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-all-paths-from-source-to-target](https://github.com/mohit7-7/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/mohit7-7/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [2121-find-if-path-exists-in-graph](https://github.com/mohit7-7/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/mohit7-7/Leetcode/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
 ## Backtracking
 |  |
 | ------- |
@@ -400,4 +403,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/mohit7-7/Leetcode/tree/master/2481-strictly-palindromic-number) |
+## Shortest Path
+|  |
+| ------- |
+| [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/mohit7-7/Leetcode/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
 <!---LeetCode Topics End-->
