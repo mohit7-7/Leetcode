@@ -1,8 +1,8 @@
 class Solution {
 public:
     bool isPowerOfFour(int n) {
-        if(n==1) return true;
-        if(n<=0 || n%4!=0) return false;
-        return isPowerOfFour(n/4);
+        if(n<1) return false;
+        int x= (log10(n)/ log10(4));
+        return pow(4,x)==n;
     }
 };
