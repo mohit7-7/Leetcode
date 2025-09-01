@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/mohit7-7/Leetcode/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/mohit7-7/Leetcode/tree/master/0118-pascals-triangle) |
 | [0322-coin-change](https://github.com/mohit7-7/Leetcode/tree/master/0322-coin-change) |
 | [0413-arithmetic-slices](https://github.com/mohit7-7/Leetcode/tree/master/0413-arithmetic-slices) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/mohit7-7/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/mohit7-7/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/mohit7-7/Leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/mohit7-7/Leetcode/tree/master/0231-power-of-two) |
@@ -411,4 +413,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/mohit7-7/Leetcode/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/mohit7-7/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
