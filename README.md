@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/mohit7-7/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/mohit7-7/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/mohit7-7/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/mohit7-7/Leetcode/tree/master/0118-pascals-triangle) |
 | [0322-coin-change](https://github.com/mohit7-7/Leetcode/tree/master/0322-coin-change) |
 | [0413-arithmetic-slices](https://github.com/mohit7-7/Leetcode/tree/master/0413-arithmetic-slices) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/mohit7-7/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/mohit7-7/Leetcode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/mohit7-7/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/mohit7-7/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/mohit7-7/Leetcode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/mohit7-7/Leetcode/tree/master/0118-pascals-triangle) |
 | [0209-minimum-size-subarray-sum](https://github.com/mohit7-7/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/mohit7-7/Leetcode/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/mohit7-7/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/mohit7-7/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0304-range-sum-query-2d-immutable](https://github.com/mohit7-7/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0498-diagonal-traverse](https://github.com/mohit7-7/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/mohit7-7/Leetcode/tree/master/0542-01-matrix) |
