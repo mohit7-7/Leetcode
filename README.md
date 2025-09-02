@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/mohit7-7/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/mohit7-7/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/mohit7-7/Leetcode/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/mohit7-7/Leetcode/tree/master/0120-triangle) |
 | [0322-coin-change](https://github.com/mohit7-7/Leetcode/tree/master/0322-coin-change) |
 | [0413-arithmetic-slices](https://github.com/mohit7-7/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/mohit7-7/Leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/mohit7-7/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/mohit7-7/Leetcode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/mohit7-7/Leetcode/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/mohit7-7/Leetcode/tree/master/0120-triangle) |
 | [0209-minimum-size-subarray-sum](https://github.com/mohit7-7/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/mohit7-7/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/mohit7-7/Leetcode/tree/master/0283-move-zeroes) |
