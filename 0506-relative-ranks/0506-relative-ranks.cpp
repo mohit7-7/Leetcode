@@ -1,30 +1,42 @@
 class Solution {
+private:
+    int findMax(vector<int>& score) {
+        int maxScore = 0;
+        for (int s : score) {
+            if (s > maxScore) {
+                maxScore = s;
+            }
+        }
+        return maxScore;
+    }
 public:
     vector<string> findRelativeRanks(vector<int>& score) {
-        int n= score.size();
-        priority_queue<pair<int,int>>pq;
-        for(int i=0;i<n;i++){
-            pq.push({score[i],i});
-        } 
-        vector<string>ans(n);
-        int i=1;
-        while(!pq.empty()){
-            int indx= pq.top().second;
-            pq.pop();
-            if(i==1){  
-                ans[indx]="Gold Medal";
-            }
-            else if(i==2){
-                ans[indx]="Silver Medal";
-            }
-            else if(i==3){
-                ans[indx]="Bronze Medal";
-            }
-            else{
-                ans[indx]= to_string(i);
-            }
-            i++;
+        int N = score.size();
+
+        // Add the original index of each score to the array
+        // Where the score is the key
+        int M = findMax(score);
+        vector<int> scoreToIndex(M + 1, 0);
+        for (int i = 0; i < N; i++) {
+            scoreToIndex[score[i]] = i + 1;
         }
-        return ans;
+
+        const vector<string> MEDALS = {"Gold Medal", "Silver Medal", "Bronze Medal"};
+
+        // Assign ranks to athletes
+        vector<string> rank(N);
+        int place = 1;
+        for (int i = M; i >= 0; i--) {
+            if (scoreToIndex[i] != 0) {
+                int originalIndex = scoreToIndex[i] - 1;
+                if (place < 4) {
+                    rank[originalIndex] = MEDALS[place - 1];
+                } else {
+                    rank[originalIndex] = to_string(place);
+                }
+                place++;
+            }
+        }
+        return rank;
     }
 };
