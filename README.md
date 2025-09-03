@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/mohit7-7/Leetcode/tree/master/0498-diagonal-traverse) |
 | [2048-build-array-from-permutation](https://github.com/mohit7-7/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2479-meeting-rooms-iii](https://github.com/mohit7-7/Leetcode/tree/master/2479-meeting-rooms-iii) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/mohit7-7/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/mohit7-7/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/mohit7-7/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/mohit7-7/Leetcode/tree/master/3974-xor-after-range-multiplication-queries-i) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/mohit7-7/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/mohit7-7/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/mohit7-7/Leetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/mohit7-7/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/mohit7-7/Leetcode/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/mohit7-7/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/mohit7-7/Leetcode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/mohit7-7/Leetcode/tree/master/0621-task-scheduler) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/mohit7-7/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2479-meeting-rooms-iii](https://github.com/mohit7-7/Leetcode/tree/master/2479-meeting-rooms-iii) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/mohit7-7/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/mohit7-7/Leetcode/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
 ## Enumeration
 |  |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/mohit7-7/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2481-strictly-palindromic-number](https://github.com/mohit7-7/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/mohit7-7/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/mohit7-7/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Linked List
 |  |
 | ------- |
