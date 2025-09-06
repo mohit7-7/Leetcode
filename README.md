@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1762-furthest-building-you-can-reach](https://github.com/mohit7-7/Leetcode/tree/master/1762-furthest-building-you-can-reach) |
 | [1813-maximum-erasure-value](https://github.com/mohit7-7/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/mohit7-7/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/mohit7-7/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1917-maximum-average-pass-ratio](https://github.com/mohit7-7/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/mohit7-7/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/mohit7-7/Leetcode/tree/master/2048-build-array-from-permutation) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/mohit7-7/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/mohit7-7/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mohit7-7/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/mohit7-7/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/mohit7-7/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/mohit7-7/Leetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [3790-fruits-into-baskets-ii](https://github.com/mohit7-7/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
