@@ -4,7 +4,7 @@ public:
         long long time=0;
         for(int num: piles){
             time += (num + mid - 1) / mid;  // integer ceiling
-            if(time>h) return false;
+            // if(time>h) return false;
         }
         return time<=h;
     }
