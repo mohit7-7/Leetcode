@@ -2,12 +2,12 @@ class Solution {
 public:
     int dp[1001][1001];
     bool check(int i, int j, string s){
+        if(i>j) return true;
         if(dp[i][j]!=-1) return dp[i][j];
-        int l= i, h= j;
-        while(l<h){
-            if(s[l++]!=s[h--]) return dp[i][j]= 0;
+        if(s[i]==s[j]){
+            return dp[i][j]= check(i+1,j-1,s);
         }
-        return dp[i][j]=1;
+        return dp[i][j]=0;
     }
     int countSubstrings(string s) {
         int n= s.length();
