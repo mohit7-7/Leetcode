@@ -1,7 +1,7 @@
 class Solution {
 public:
     int numberOfPairs(vector<vector<int>>& points) {
-        if(points.size()==1000&&points[999][1]==1000000)return 999;
+        // if(points.size()==1000&&points[999][1]==1000000)return 999;
         int n= points.size();
         int count=0;
         for(int i=0;i<n;i++){
