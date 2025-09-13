@@ -1,33 +1,19 @@
-#define ll long long
 class Solution {
-public:                  
+public:
     long long bowlSubarrays(vector<int>& nums) {
-        int n = nums.size();
-        vector<int> nge(n, n), pge(n, -1); 
-        
-        stack<int> st;
-        for(int i=n-1; i>=0; i--){
-            while(!st.empty() && nums[st.top()] <= nums[i]){
-                st.pop();
-            }
-            if(!st.empty()) nge[i] = st.top();
-            st.push(i);
-        }
 
-        while(!st.empty()) st.pop();
-        for(int i=0; i<n; i++){
-            while(!st.empty() && nums[st.top()] <= nums[i]){
-                st.pop();
-            }
-            if(!st.empty()) pge[i] = st.top();
-            st.push(i);
+        int ans = 0, maxi = nums[0], n = nums.size();
+        for( int i = 1 ; i < n ; i++ ){
+            if( nums[i] > nums[i-1] && maxi > nums[i] )
+                ans++;
+            maxi = max( nums[i], maxi );
         }
-
-        ll count = 0;
-        for(int i=0; i<n; i++){
-            if(nge[i]!=n && (nge[i]-i+1)>2) count++;
-            if(pge[i]!=-1 && (i-pge[i]+1)>2) count++;
+        maxi = nums[n-1];
+        for( int i = n-2 ; i >= 0 ; i-- ){
+            if( nums[i] > nums[i+1] && maxi > nums[i] )
+                ans++;
+            maxi = max( nums[i], maxi );
         }
-        return count;
+        return ans;
     }
-};
+}; 
