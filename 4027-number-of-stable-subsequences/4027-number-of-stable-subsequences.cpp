@@ -10,13 +10,13 @@ public:
             return dp[indx][ne][no] = solve(nums, indx-1, ne+1, 0)%mod + solve(nums, indx-1,ne, no)%mod;
         }
         else{
-            return dp[indx][ne][no]=solve(nums, indx-1, 0, no+1)%mod+ solve(nums,indx-1, ne, no)%mod;
+            return dp[indx][ne][no] = solve(nums, indx-1, 0, no+1)%mod+ solve(nums,indx-1, ne, no)%mod;
         }
     }
     int countStableSubsequences(vector<int>& nums) {
         int n= nums.size();
         dp.assign(n,vector<vector<int>>(4,vector<int>(4,-1)));
-        if(n<3) return (1<<n)-1;
+        if(n<3) return pow(2,n)-1;
         return solve(nums,n-1, 0,0)%mod -1;   
     }
 };
