@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mohit7-7/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/mohit7-7/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/mohit7-7/Leetcode/tree/master/1448-maximum-69-number) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/mohit7-7/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2481-strictly-palindromic-number](https://github.com/mohit7-7/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/mohit7-7/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/mohit7-7/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/mohit7-7/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/mohit7-7/Leetcode/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/mohit7-7/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/mohit7-7/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/mohit7-7/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2479-meeting-rooms-iii](https://github.com/mohit7-7/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/mohit7-7/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/mohit7-7/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/mohit7-7/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/mohit7-7/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/mohit7-7/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/mohit7-7/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Binary Search
 |  |
@@ -537,4 +540,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/mohit7-7/Leetcode/tree/master/0456-132-pattern) |
+## Number Theory
+|  |
+| ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/mohit7-7/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 <!---LeetCode Topics End-->
