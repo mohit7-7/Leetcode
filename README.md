@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/mohit7-7/Leetcode/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/mohit7-7/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/mohit7-7/Leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0394-decode-string](https://github.com/mohit7-7/Leetcode/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/mohit7-7/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mohit7-7/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/mohit7-7/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/mohit7-7/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/mohit7-7/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/mohit7-7/Leetcode/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/mohit7-7/Leetcode/tree/master/0394-decode-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/mohit7-7/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/mohit7-7/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Simulation
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/mohit7-7/Leetcode/tree/master/0394-decode-string) |
 | [0456-132-pattern](https://github.com/mohit7-7/Leetcode/tree/master/0456-132-pattern) |
 | [1002-maximum-width-ramp](https://github.com/mohit7-7/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/mohit7-7/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
