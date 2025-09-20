@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/mohit7-7/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/mohit7-7/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3797-design-spreadsheet](https://github.com/mohit7-7/Leetcode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/mohit7-7/Leetcode/tree/master/3827-implement-router) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/mohit7-7/Leetcode/tree/master/3974-xor-after-range-multiplication-queries-i) |
 | [3980-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/mohit7-7/Leetcode/tree/master/3980-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Hash Table
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/mohit7-7/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3678-design-task-manager](https://github.com/mohit7-7/Leetcode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/mohit7-7/Leetcode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/mohit7-7/Leetcode/tree/master/3827-implement-router) |
 ## Design
 |  |
 | ------- |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/mohit7-7/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [3678-design-task-manager](https://github.com/mohit7-7/Leetcode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/mohit7-7/Leetcode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/mohit7-7/Leetcode/tree/master/3827-implement-router) |
 ## Greedy
 |  |
 | ------- |
@@ -421,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/mohit7-7/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/mohit7-7/Leetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [3790-fruits-into-baskets-ii](https://github.com/mohit7-7/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3827-implement-router](https://github.com/mohit7-7/Leetcode/tree/master/3827-implement-router) |
 ## Segment Tree
 |  |
 | ------- |
@@ -504,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/mohit7-7/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [3827-implement-router](https://github.com/mohit7-7/Leetcode/tree/master/3827-implement-router) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -552,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0456-132-pattern](https://github.com/mohit7-7/Leetcode/tree/master/0456-132-pattern) |
 | [3678-design-task-manager](https://github.com/mohit7-7/Leetcode/tree/master/3678-design-task-manager) |
+| [3827-implement-router](https://github.com/mohit7-7/Leetcode/tree/master/3827-implement-router) |
 ## Number Theory
 |  |
 | ------- |
