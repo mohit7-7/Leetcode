@@ -3,42 +3,32 @@ public:
     int largestRectangleArea(vector<int>& heights) {
         int n= heights.size();
         stack<int>st;
-        vector<int>nsl(n);//next smallest left cal. kro
-        vector<int>nsr(n);//next smallest right cal. kro
-        
-        
-        nsl[0]=-1;
+        vector<int>nsl(n,-1);//next smallest left cal. kro
+        vector<int>nsr(n,n);//next smallest right cal. kro
+
         st.push(0); // index push kro.
         for(int i=1;i<n;i++){
             int curr= heights[i];
             while(!st.empty() && curr<=heights[st.top()]){
                 st.pop();
             }
-            if(st.empty()){
-                nsl[i]=-1;
-            }
-            else{
+            if(!st.empty()){
                 nsl[i]=st.top();
             }
             st.push(i);
         }
         
-        //stack ko khali krlo.
         while(!st.empty()){
             st.pop();
         }
         
-        nsr[n-1]=n;
         st.push(n-1);
         for(int i=n-2;i>=0;i--){
             int curr= heights[i];
             while(!st.empty() && curr<=heights[st.top()]){
                 st.pop();
             }
-            if(st.empty()){
-                nsr[i]=n; // stack empty hua toh -1 nhi n ko daalenge to get the correct area.
-            }
-            else{
+            if(!st.empty()){
                 nsr[i]= st.top();
             }
             st.push(i);
