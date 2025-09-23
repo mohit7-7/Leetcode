@@ -2,14 +2,26 @@ class Solution {
 public:
     vector<int> smallestTrimmedNumbers(vector<string>& nums, vector<vector<int>>& queries) {
         vector<int> res;
-        int n = nums.size();
-        for(auto &q:queries) {
-            vector<pair<string,int>> pq;
-            for(int i=0;i<n; i++) {
-                pq.push_back({(nums[i].substr(nums[i].size()-q[1])), i});
+        for(auto x:queries)
+        {
+            priority_queue<pair<string,int>> v;
+            for(int i=0;i<nums.size();i++)
+            {
+                int t=nums[i].length()-x[1];
+                string p=nums[i].substr(t,x[1]);
+                if(v.size()<x[0])
+                    v.push({p,i});
+                else
+                {
+                    if(v.top().first > p)
+                    {
+                        v.pop();
+                        v.push({p,i});
+                    }
+                }
             }
-            sort(pq.begin(), pq.end());
-            res.push_back(pq[q[0]-1].second);
+            int val=v.top().second;
+            res.push_back(val);
         }
         return res;
     }
