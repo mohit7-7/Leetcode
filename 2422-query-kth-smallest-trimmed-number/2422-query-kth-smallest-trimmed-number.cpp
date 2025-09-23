@@ -1,19 +1,17 @@
 class Solution {
 public:
-    int findksmallest(vector<string>&nums, int k){
-        priority_queue<pair<string,int>, vector<pair<string,int>> , greater<pair<string,int>>> pq;
-        int i=0;
-        for(string num : nums){
-            pq.push({num , i++});
-        }
-
-        int indx =-1;
-        while(k--){
-            indx = pq.top().second;
-            pq.pop();
-        }
-        return indx;
+    int findksmallest(vector<string>& nums, int k){
+    vector<pair<string,int>> arr;
+    for(int i=0;i<nums.size();i++){
+        arr.push_back({nums[i],i});
     }
+    nth_element(arr.begin(), arr.begin()+k-1, arr.end());
+    // kth smallest will be at arr[k-1] but need full ordering for tie-breaking
+    sort(arr.begin(), arr.begin()+k);
+    return arr[k-1].second;
+}
+
+
     vector<int> smallestTrimmedNumbers(vector<string>& nums, vector<vector<int>>& queries) {
         vector<int>ans;
         int numsize= nums[0].length();
