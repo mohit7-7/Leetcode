@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/mohit7-7/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/mohit7-7/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/mohit7-7/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2422-query-kth-smallest-trimmed-number](https://github.com/mohit7-7/Leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/mohit7-7/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/mohit7-7/Leetcode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [3617-find-the-original-typed-string-i](https://github.com/mohit7-7/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/mohit7-7/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/mohit7-7/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/mohit7-7/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2422-query-kth-smallest-trimmed-number](https://github.com/mohit7-7/Leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2479-meeting-rooms-iii](https://github.com/mohit7-7/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/mohit7-7/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/mohit7-7/Leetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/mohit7-7/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mohit7-7/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/mohit7-7/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [2422-query-kth-smallest-trimmed-number](https://github.com/mohit7-7/Leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2479-meeting-rooms-iii](https://github.com/mohit7-7/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/mohit7-7/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/mohit7-7/Leetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/mohit7-7/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/mohit7-7/Leetcode/tree/master/2023-design-movie-rental-system) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/mohit7-7/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2422-query-kth-smallest-trimmed-number](https://github.com/mohit7-7/Leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2479-meeting-rooms-iii](https://github.com/mohit7-7/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/mohit7-7/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/mohit7-7/Leetcode/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
@@ -513,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mohit7-7/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/mohit7-7/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [2422-query-kth-smallest-trimmed-number](https://github.com/mohit7-7/Leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/mohit7-7/Leetcode/tree/master/3974-xor-after-range-multiplication-queries-i) |
 ## Queue
 |  |
@@ -563,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mohit7-7/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [2422-query-kth-smallest-trimmed-number](https://github.com/mohit7-7/Leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 ## Ordered Set
 |  |
 | ------- |
@@ -574,4 +580,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/mohit7-7/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+## Radix Sort
+|  |
+| ------- |
+| [2422-query-kth-smallest-trimmed-number](https://github.com/mohit7-7/Leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 <!---LeetCode Topics End-->
