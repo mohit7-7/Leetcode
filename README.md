@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/mohit7-7/Leetcode/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/mohit7-7/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/mohit7-7/Leetcode/tree/master/0647-palindromic-substrings) |
+| [0747-min-cost-climbing-stairs](https://github.com/mohit7-7/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0808-number-of-matching-subsequences](https://github.com/mohit7-7/Leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0868-push-dominoes](https://github.com/mohit7-7/Leetcode/tree/master/0868-push-dominoes) |
 | [0875-longest-mountain-in-array](https://github.com/mohit7-7/Leetcode/tree/master/0875-longest-mountain-in-array) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/mohit7-7/Leetcode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/mohit7-7/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0733-flood-fill](https://github.com/mohit7-7/Leetcode/tree/master/0733-flood-fill) |
+| [0747-min-cost-climbing-stairs](https://github.com/mohit7-7/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0749-shortest-completing-word](https://github.com/mohit7-7/Leetcode/tree/master/0749-shortest-completing-word) |
 | [0808-number-of-matching-subsequences](https://github.com/mohit7-7/Leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0875-longest-mountain-in-array](https://github.com/mohit7-7/Leetcode/tree/master/0875-longest-mountain-in-array) |
