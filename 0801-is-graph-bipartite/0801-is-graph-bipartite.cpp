@@ -7,7 +7,7 @@ public:
         for(int i=0;i<n;i++){
             if(color[i]==-1){
                 queue<int>q;
-                color[i]= 0;  //0 --> blue .. 10 --> red..
+                color[i]= 0;  //0 --> blue .. 1 --> red..
                 q.push(i);
                 while(!q.empty()){
                     int node= q.front();
