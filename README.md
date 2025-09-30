@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/mohit7-7/Leetcode/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mohit7-7/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/mohit7-7/Leetcode/tree/master/0542-01-matrix) |
+| [0594-longest-harmonious-subsequence](https://github.com/mohit7-7/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/mohit7-7/Leetcode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/mohit7-7/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0733-flood-fill](https://github.com/mohit7-7/Leetcode/tree/master/0733-flood-fill) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohit7-7/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/mohit7-7/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mohit7-7/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/mohit7-7/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/mohit7-7/Leetcode/tree/master/0621-task-scheduler) |
 | [0749-shortest-completing-word](https://github.com/mohit7-7/Leetcode/tree/master/0749-shortest-completing-word) |
 | [0768-partition-labels](https://github.com/mohit7-7/Leetcode/tree/master/0768-partition-labels) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/mohit7-7/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0413-arithmetic-slices](https://github.com/mohit7-7/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mohit7-7/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/mohit7-7/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/mohit7-7/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/mohit7-7/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mohit7-7/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/mohit7-7/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohit7-7/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0506-relative-ranks](https://github.com/mohit7-7/Leetcode/tree/master/0506-relative-ranks) |
+| [0594-longest-harmonious-subsequence](https://github.com/mohit7-7/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/mohit7-7/Leetcode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/mohit7-7/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0778-reorganize-string](https://github.com/mohit7-7/Leetcode/tree/master/0778-reorganize-string) |
@@ -556,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/mohit7-7/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/mohit7-7/Leetcode/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/mohit7-7/Leetcode/tree/master/0778-reorganize-string) |
 | [0900-reordered-power-of-2](https://github.com/mohit7-7/Leetcode/tree/master/0900-reordered-power-of-2) |
