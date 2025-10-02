@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/mohit7-7/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/mohit7-7/Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/mohit7-7/Leetcode/tree/master/0120-triangle) |
+| [0300-longest-increasing-subsequence](https://github.com/mohit7-7/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/mohit7-7/Leetcode/tree/master/0322-coin-change) |
 | [0413-arithmetic-slices](https://github.com/mohit7-7/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/mohit7-7/Leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/mohit7-7/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/mohit7-7/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/mohit7-7/Leetcode/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/mohit7-7/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0304-range-sum-query-2d-immutable](https://github.com/mohit7-7/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0322-coin-change](https://github.com/mohit7-7/Leetcode/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/mohit7-7/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/mohit7-7/Leetcode/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/mohit7-7/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0300-longest-increasing-subsequence](https://github.com/mohit7-7/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/mohit7-7/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohit7-7/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0456-132-pattern](https://github.com/mohit7-7/Leetcode/tree/master/0456-132-pattern) |
