@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/mohit7-7/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/mohit7-7/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0187-repeated-dna-sequences](https://github.com/mohit7-7/Leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0282-expression-add-operators](https://github.com/mohit7-7/Leetcode/tree/master/0282-expression-add-operators) |
 | [0394-decode-string](https://github.com/mohit7-7/Leetcode/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/mohit7-7/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mohit7-7/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/mohit7-7/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/mohit7-7/Leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/mohit7-7/Leetcode/tree/master/0231-power-of-two) |
+| [0282-expression-add-operators](https://github.com/mohit7-7/Leetcode/tree/master/0282-expression-add-operators) |
 | [0326-power-of-three](https://github.com/mohit7-7/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/mohit7-7/Leetcode/tree/master/0342-power-of-four) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/mohit7-7/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -516,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/mohit7-7/Leetcode/tree/master/0037-sudoku-solver) |
+| [0282-expression-add-operators](https://github.com/mohit7-7/Leetcode/tree/master/0282-expression-add-operators) |
 | [0813-all-paths-from-source-to-target](https://github.com/mohit7-7/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/mohit7-7/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/mohit7-7/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
