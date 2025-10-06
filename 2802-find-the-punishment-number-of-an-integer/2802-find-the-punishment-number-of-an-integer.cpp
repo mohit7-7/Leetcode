@@ -5,10 +5,9 @@ public:
             return true;
         }
 
-        if(indx==num.size()) return false;
+        if(indx==num.size() || target<0) return false;
 
         for(int i= indx;i<num.size();i++){
-            // if(i!=indx && num[indx]=='0') break;
             string part= num.substr(indx, i-indx+1);
             int val = stoi(part);
             if(ispossible(target-val, num, i+1)){
