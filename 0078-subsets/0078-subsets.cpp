@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void solve(vector<vector<int>>&ans, vector<int>&nums,vector<int>&temp, int indx){
+    void solve(vector<vector<int>>&ans, vector<int>&nums,vector<int>temp, int indx){
         if(indx== nums.size()){
             ans.push_back(temp);
             return ;
@@ -9,7 +9,7 @@ public:
         solve(ans, nums, temp, indx+1);
         temp.push_back(nums[indx]);
         solve(ans, nums, temp, indx+1);
-        temp.pop_back();
+        // temp.pop_back();
     }
     vector<vector<int>> subsets(vector<int>& nums) {
         vector<vector<int>>ans;
