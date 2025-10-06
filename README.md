@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/mohit7-7/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0038-count-and-say](https://github.com/mohit7-7/Leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/mohit7-7/Leetcode/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/mohit7-7/Leetcode/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/mohit7-7/Leetcode/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/mohit7-7/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/mohit7-7/Leetcode/tree/master/0165-compare-version-numbers) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/mohit7-7/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/mohit7-7/Leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/mohit7-7/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/mohit7-7/Leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mohit7-7/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mohit7-7/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/mohit7-7/Leetcode/tree/master/0118-pascals-triangle) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/mohit7-7/Leetcode/tree/master/0079-word-search) |
 | [0207-course-schedule](https://github.com/mohit7-7/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/mohit7-7/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mohit7-7/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -531,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/mohit7-7/Leetcode/tree/master/0037-sudoku-solver) |
 | [0078-subsets](https://github.com/mohit7-7/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/mohit7-7/Leetcode/tree/master/0079-word-search) |
 | [0282-expression-add-operators](https://github.com/mohit7-7/Leetcode/tree/master/0282-expression-add-operators) |
 | [0813-all-paths-from-source-to-target](https://github.com/mohit7-7/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/mohit7-7/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -548,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/mohit7-7/Leetcode/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/mohit7-7/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/mohit7-7/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/mohit7-7/Leetcode/tree/master/0079-word-search) |
 | [0304-range-sum-query-2d-immutable](https://github.com/mohit7-7/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0407-trapping-rain-water-ii](https://github.com/mohit7-7/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mohit7-7/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
