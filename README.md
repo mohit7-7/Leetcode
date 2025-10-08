@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/mohit7-7/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/mohit7-7/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/mohit7-7/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/mohit7-7/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/mohit7-7/Leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2479-meeting-rooms-iii](https://github.com/mohit7-7/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/mohit7-7/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/mohit7-7/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mohit7-7/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/mohit7-7/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/mohit7-7/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/mohit7-7/Leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2479-meeting-rooms-iii](https://github.com/mohit7-7/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/mohit7-7/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/mohit7-7/Leetcode/tree/master/0979-di-string-match) |
 | [1002-maximum-width-ramp](https://github.com/mohit7-7/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mohit7-7/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/mohit7-7/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2481-strictly-palindromic-number](https://github.com/mohit7-7/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/mohit7-7/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/mohit7-7/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -494,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/mohit7-7/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/mohit7-7/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/mohit7-7/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/mohit7-7/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/mohit7-7/Leetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [3790-fruits-into-baskets-ii](https://github.com/mohit7-7/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3827-implement-router](https://github.com/mohit7-7/Leetcode/tree/master/3827-implement-router) |
