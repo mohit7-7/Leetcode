@@ -18,7 +18,7 @@ public:
                     if (it==dry.end()) return {}; // no dry day available
                     int day=*it;
                     ans[day]=lake; // dry this lake on day d
-                    dry.erase(*it); //  dry day used
+                    dry.erase(day); //  dry day used
                 }
                 rainDay[lake]=i;
                 ans[i]=-1; // rainy day
