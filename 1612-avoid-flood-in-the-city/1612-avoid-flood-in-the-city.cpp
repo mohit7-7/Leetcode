@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<int> avoidFlood(vector<int>& rains) {
         int n=rains.size();
-        vector<int> ans(n, 2);
+        vector<int> ans(n, 100);
         unordered_map<int,int> rainDay;
         set<int> dry;
 
