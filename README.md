@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/mohit7-7/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/mohit7-7/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2481-strictly-palindromic-number](https://github.com/mohit7-7/Leetcode/tree/master/2481-strictly-palindromic-number) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/mohit7-7/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/mohit7-7/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/mohit7-7/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/mohit7-7/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/mohit7-7/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/mohit7-7/Leetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/mohit7-7/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/mohit7-7/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/mohit7-7/Leetcode/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/mohit7-7/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/mohit7-7/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2023-design-movie-rental-system](https://github.com/mohit7-7/Leetcode/tree/master/2023-design-movie-rental-system) |
 | [2479-meeting-rooms-iii](https://github.com/mohit7-7/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/mohit7-7/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/mohit7-7/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/mohit7-7/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/mohit7-7/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/mohit7-7/Leetcode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/mohit7-7/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/mohit7-7/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/mohit7-7/Leetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/mohit7-7/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/mohit7-7/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/mohit7-7/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Sliding Window
