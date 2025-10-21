@@ -11,11 +11,12 @@ public:
             string word= q.front().first;
             int steps= q.front().second;
             q.pop();
-            if(word== endWord) return steps;
+            // if(word== endWord) return steps;
             for(int i=0;i<word.size();i++){
                 char original = word[i];
                 for(char ch='a'; ch<='z';ch++){
                     word[i]=ch;
+                    if(word == endWord) return steps+1;
                     if(st.count(word)){
                         st.erase(word);
                         q.push({word,steps+1});
