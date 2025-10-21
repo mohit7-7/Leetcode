@@ -7,6 +7,7 @@ public:
         }
         return false;
     }
+    
     int maxIncreasingSubarrays(vector<int>& nums) {
         int n= nums.size();
         vector<int>inc(n,1);
