@@ -13,11 +13,11 @@ public:
                 freq[ch-'a']--;
             }
 
-            return any_of(freq.begin(), freq.end(), [](int x){return x==0;});
+            return any_of(freq.begin(), freq.end(), [](int x){return x!=0;});
         };
         ans.push_back(words[0]);
         for(auto& string : words){
-            if(!check(string, ans.back())){
+            if(check(string, ans.back())){
                 ans.push_back(string);
             }
         }
