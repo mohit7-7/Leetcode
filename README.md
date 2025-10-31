@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/mohit7-7/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/mohit7-7/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/mohit7-7/Leetcode/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/mohit7-7/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/mohit7-7/Leetcode/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/mohit7-7/Leetcode/tree/master/0282-expression-add-operators) |
 | [0326-power-of-three](https://github.com/mohit7-7/Leetcode/tree/master/0326-power-of-three) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/mohit7-7/Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/mohit7-7/Leetcode/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/mohit7-7/Leetcode/tree/master/0135-candy) |
+| [0204-count-primes](https://github.com/mohit7-7/Leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/mohit7-7/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mohit7-7/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/mohit7-7/Leetcode/tree/master/0239-sliding-window-maximum) |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/mohit7-7/Leetcode/tree/master/0204-count-primes) |
 | [0875-longest-mountain-in-array](https://github.com/mohit7-7/Leetcode/tree/master/0875-longest-mountain-in-array) |
 | [0900-reordered-power-of-2](https://github.com/mohit7-7/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/mohit7-7/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -702,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/mohit7-7/Leetcode/tree/master/0204-count-primes) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/mohit7-7/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Radix Sort
 |  |
