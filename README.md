@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2205-find-good-days-to-rob-the-bank](https://github.com/mohit7-7/Leetcode/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/mohit7-7/Leetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/mohit7-7/Leetcode/tree/master/2576-minimum-penalty-for-a-shop) |
+| [2625-increment-submatrices-by-one](https://github.com/mohit7-7/Leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/mohit7-7/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mohit7-7/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/mohit7-7/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/mohit7-7/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/mohit7-7/Leetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/mohit7-7/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2625-increment-submatrices-by-one](https://github.com/mohit7-7/Leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/mohit7-7/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/mohit7-7/Leetcode/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/mohit7-7/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -621,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/mohit7-7/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/mohit7-7/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/mohit7-7/Leetcode/tree/master/1073-number-of-enclaves) |
+| [2625-increment-submatrices-by-one](https://github.com/mohit7-7/Leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/mohit7-7/Leetcode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3797-design-spreadsheet](https://github.com/mohit7-7/Leetcode/tree/master/3797-design-spreadsheet) |
 ## Rolling Hash
