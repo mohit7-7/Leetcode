@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/mohit7-7/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/mohit7-7/Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/mohit7-7/Leetcode/tree/master/0120-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/mohit7-7/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/mohit7-7/Leetcode/tree/master/0135-candy) |
 | [0204-count-primes](https://github.com/mohit7-7/Leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/mohit7-7/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/mohit7-7/Leetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/mohit7-7/Leetcode/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/mohit7-7/Leetcode/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/mohit7-7/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0187-repeated-dna-sequences](https://github.com/mohit7-7/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0349-intersection-of-two-arrays](https://github.com/mohit7-7/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohit7-7/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -581,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/mohit7-7/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/mohit7-7/Leetcode/tree/master/0547-number-of-provinces) |
 | [0794-swim-in-rising-water](https://github.com/mohit7-7/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/mohit7-7/Leetcode/tree/master/0801-is-graph-bipartite) |
