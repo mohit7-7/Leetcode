@@ -1,19 +1,20 @@
+
 class Solution {
 public:
-    int lengthOfLongestSubstring(string s) {
-        int n= s.size();
-        int maxians = INT_MIN;
-        int i=0, j=0;
-        unordered_map<int,int> mp;
-        while(j<n){
-            while(mp[s[j]]){
-                mp.erase(s[i]);
-                i++;
+    int lengthOfLongestSubstring(std::string s) {
+        vector<char> temp;
+        int maxi = 0;
+
+        for (char ch : s) {
+            auto it =find(temp.begin(), temp.end(), ch);
+            if (it != temp.end()) {
+                maxi = max(maxi, static_cast<int>(temp.size()));
+                temp.erase(temp.begin(), it + 1); 
             }
-            mp[s[j]]++;
-            j++;
-            maxians= max(maxians, static_cast<int>(mp.size()));
+            temp.push_back(ch);
         }
-        return maxians;
+
+        maxi =max(maxi, static_cast<int>(temp.size()));
+        return maxi;
     }
 };
