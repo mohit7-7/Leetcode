@@ -517,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/mohit7-7/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/mohit7-7/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2121-find-if-path-exists-in-graph](https://github.com/mohit7-7/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/mohit7-7/Leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Trie
 |  |
 | ------- |
@@ -734,4 +735,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/mohit7-7/Leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
+## Tree
+|  |
+| ------- |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/mohit7-7/Leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
 <!---LeetCode Topics End-->
