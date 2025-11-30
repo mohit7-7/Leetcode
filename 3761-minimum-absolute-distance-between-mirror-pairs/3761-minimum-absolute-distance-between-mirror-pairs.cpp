@@ -3,12 +3,12 @@ public:
     int rev(int num){
         int  r = 0;
         while(num){
-            int temp = num%10;
-            r = r*10+temp;
+            r = r*10+(num%10);
             num/=10;
         }
         return r;
     }
+    
     int minMirrorPairDistance(vector<int>& nums) {
         int n= nums.size();
         unordered_map<int,int>mp;
