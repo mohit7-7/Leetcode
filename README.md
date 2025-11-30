@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/mohit7-7/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/mohit7-7/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/mohit7-7/Leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
+| [1590-make-sum-divisible-by-p](https://github.com/mohit7-7/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mohit7-7/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/mohit7-7/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/mohit7-7/Leetcode/tree/master/2205-find-good-days-to-rob-the-bank) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/mohit7-7/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/mohit7-7/Leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mohit7-7/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1590-make-sum-divisible-by-p](https://github.com/mohit7-7/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/mohit7-7/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/mohit7-7/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1762-furthest-building-you-can-reach](https://github.com/mohit7-7/Leetcode/tree/master/1762-furthest-building-you-can-reach) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/mohit7-7/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mohit7-7/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mohit7-7/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1590-make-sum-divisible-by-p](https://github.com/mohit7-7/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/mohit7-7/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1813-maximum-erasure-value](https://github.com/mohit7-7/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/mohit7-7/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
