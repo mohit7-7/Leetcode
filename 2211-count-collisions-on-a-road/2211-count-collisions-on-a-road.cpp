@@ -1,34 +1,20 @@
 class Solution {
 public:
-    int countCollisions(string directions) {
-        int countR = 0;
-        int n= directions.size();
+    int countCollisions(string s) {
+        int n = s.size();
+        int i = 0, j = n - 1;
+
+        // ignore left movers at left edge
+        while (i < n && s[i] == 'L') i++;
+
+        // ignore right movers at right edge
+        while (j >= 0 && s[j] == 'R') j--;
+
         int ans = 0;
-        bool stationary = false;
-        for(int i=0;i<n;i++){
-            if(directions[i]=='R'){
-                countR++;
-                stationary = false;
-            }
-            else if(directions[i]=='S'){
-                ans += countR;
-                countR=0;
-                stationary = true;
-            }
-            else{
-                if(stationary){
-                    ans++;
-                }
-                else{
-                    if(countR){
-                        ans+=2;
-                        countR--;
-                        stationary = true;
-                        ans += countR;
-                        countR=0;
-                    }
-                }
-            }
+
+        // count all R or L in the middle
+        for (int k = i; k <= j; k++) {
+            if (s[k] != 'S') ans++;
         }
         return ans;
     }
