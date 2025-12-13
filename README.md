@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2576-minimum-penalty-for-a-shop](https://github.com/mohit7-7/Leetcode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/mohit7-7/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/mohit7-7/Leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [3606-coupon-code-validator](https://github.com/mohit7-7/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3617-find-the-original-typed-string-i](https://github.com/mohit7-7/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/mohit7-7/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3797-design-spreadsheet](https://github.com/mohit7-7/Leetcode/tree/master/3797-design-spreadsheet) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3531-count-covered-buildings](https://github.com/mohit7-7/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/mohit7-7/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/mohit7-7/Leetcode/tree/master/3583-count-special-triplets) |
+| [3606-coupon-code-validator](https://github.com/mohit7-7/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/mohit7-7/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/mohit7-7/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/mohit7-7/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/mohit7-7/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3531-count-covered-buildings](https://github.com/mohit7-7/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/mohit7-7/Leetcode/tree/master/3583-count-special-triplets) |
+| [3606-coupon-code-validator](https://github.com/mohit7-7/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/mohit7-7/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3623-count-number-of-trapezoids-i](https://github.com/mohit7-7/Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3678-design-task-manager](https://github.com/mohit7-7/Leetcode/tree/master/3678-design-task-manager) |
@@ -450,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3433-count-mentions-per-user](https://github.com/mohit7-7/Leetcode/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/mohit7-7/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3531-count-covered-buildings](https://github.com/mohit7-7/Leetcode/tree/master/3531-count-covered-buildings) |
+| [3606-coupon-code-validator](https://github.com/mohit7-7/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/mohit7-7/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Heap (Priority Queue)
 |  |
