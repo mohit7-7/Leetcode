@@ -727,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1068-product-sales-analysis-i](https://github.com/mohit7-7/Leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1075-project-employees-i](https://github.com/mohit7-7/Leetcode/tree/master/1075-project-employees-i) |
 | [1155-product-sales-analysis-iii](https://github.com/mohit7-7/Leetcode/tree/master/1155-product-sales-analysis-iii) |
+| [1193-monthly-transactions-i](https://github.com/mohit7-7/Leetcode/tree/master/1193-monthly-transactions-i) |
 | [1251-average-selling-price](https://github.com/mohit7-7/Leetcode/tree/master/1251-average-selling-price) |
 | [1258-article-views-i](https://github.com/mohit7-7/Leetcode/tree/master/1258-article-views-i) |
 | [1292-immediate-food-delivery-ii](https://github.com/mohit7-7/Leetcode/tree/master/1292-immediate-food-delivery-ii) |
