@@ -730,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-immediate-food-delivery-ii](https://github.com/mohit7-7/Leetcode/tree/master/1292-immediate-food-delivery-ii) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/mohit7-7/Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/mohit7-7/Leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1934-confirmation-rate](https://github.com/mohit7-7/Leetcode/tree/master/1934-confirmation-rate) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/mohit7-7/Leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Brainteaser
 |  |
