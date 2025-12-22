@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/mohit7-7/Leetcode/tree/master/0778-reorganize-string) |
 | [0808-number-of-matching-subsequences](https://github.com/mohit7-7/Leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0868-push-dominoes](https://github.com/mohit7-7/Leetcode/tree/master/0868-push-dominoes) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/mohit7-7/Leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0979-di-string-match](https://github.com/mohit7-7/Leetcode/tree/master/0979-di-string-match) |
 | [1170-shortest-common-supersequence](https://github.com/mohit7-7/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/mohit7-7/Leetcode/tree/master/1250-longest-common-subsequence) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0808-number-of-matching-subsequences](https://github.com/mohit7-7/Leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0868-push-dominoes](https://github.com/mohit7-7/Leetcode/tree/master/0868-push-dominoes) |
 | [0875-longest-mountain-in-array](https://github.com/mohit7-7/Leetcode/tree/master/0875-longest-mountain-in-array) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/mohit7-7/Leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0967-minimum-falling-path-sum](https://github.com/mohit7-7/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1170-shortest-common-supersequence](https://github.com/mohit7-7/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/mohit7-7/Leetcode/tree/master/1250-longest-common-subsequence) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-longest-mountain-in-array](https://github.com/mohit7-7/Leetcode/tree/master/0875-longest-mountain-in-array) |
 | [0907-koko-eating-bananas](https://github.com/mohit7-7/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0958-sort-array-by-parity-ii](https://github.com/mohit7-7/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/mohit7-7/Leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0967-minimum-falling-path-sum](https://github.com/mohit7-7/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [0979-di-string-match](https://github.com/mohit7-7/Leetcode/tree/master/0979-di-string-match) |
 | [1002-maximum-width-ramp](https://github.com/mohit7-7/Leetcode/tree/master/1002-maximum-width-ramp) |
