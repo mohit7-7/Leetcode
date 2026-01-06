@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/mohit7-7/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/mohit7-7/Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/mohit7-7/Leetcode/tree/master/0120-triangle) |
+| [0279-perfect-squares](https://github.com/mohit7-7/Leetcode/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/mohit7-7/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/mohit7-7/Leetcode/tree/master/0322-coin-change) |
 | [0413-arithmetic-slices](https://github.com/mohit7-7/Leetcode/tree/master/0413-arithmetic-slices) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/mohit7-7/Leetcode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/mohit7-7/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/mohit7-7/Leetcode/tree/master/0231-power-of-two) |
+| [0279-perfect-squares](https://github.com/mohit7-7/Leetcode/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/mohit7-7/Leetcode/tree/master/0282-expression-add-operators) |
 | [0326-power-of-three](https://github.com/mohit7-7/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/mohit7-7/Leetcode/tree/master/0342-power-of-four) |
@@ -638,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/mohit7-7/Leetcode/tree/master/0127-word-ladder) |
 | [0207-course-schedule](https://github.com/mohit7-7/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/mohit7-7/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0279-perfect-squares](https://github.com/mohit7-7/Leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/mohit7-7/Leetcode/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/mohit7-7/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mohit7-7/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
