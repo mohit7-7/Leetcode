@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-shortest-common-supersequence](https://github.com/mohit7-7/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/mohit7-7/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/mohit7-7/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/mohit7-7/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mohit7-7/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/mohit7-7/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/mohit7-7/Leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/mohit7-7/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mohit7-7/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/mohit7-7/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/mohit7-7/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mohit7-7/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/mohit7-7/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/mohit7-7/Leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
