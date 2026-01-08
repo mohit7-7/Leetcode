@@ -1,23 +1,22 @@
 class Solution {
 public:
-    int hr1(vector<int>& nums){
-        int n= nums.size();
-        vector<int>dp(n+1,0);
-        dp[1]= nums[0];
-        for(int i=1;i<n;i++){
-            dp[i+1]=max(dp[i],dp[i-1]+nums[i]);
+    int solve(vector<int>&nums , int l , int r){
+        int prev2 = 0, prev1=0;
+        for(int i=l;i<=r;i++){
+            int pick = prev2+ nums[i];
+            int notpick = prev1;
+            int curr= max(pick , notpick);
+
+            prev2 = prev1;
+            prev1= curr;
         }
-        return dp[n];
+        return prev1;
     }
     int rob(vector<int>& nums) {
-        vector<int> temp;
-        vector<int> temp1;
         int n= nums.size();
-        if(n==1)return nums[0];
-        for(int i=0;i<n;i++){
-            if(i!=0) temp1.push_back(nums[i]);
-            if(i!=n-1) temp.push_back(nums[i]);
-        }
-        return max(hr1(temp), hr1(temp1));
+        if(n==1) return nums[0];
+        int ans1= solve(nums , 0 , n-2);
+        int ans2= solve(nums , 1 , n-1);
+        return max(ans1,ans2);
     }
 };
