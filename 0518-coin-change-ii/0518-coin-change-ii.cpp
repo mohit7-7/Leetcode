@@ -1,22 +1,22 @@
-#include <vector>
-#include <cstdint>
-using namespace std;
-
 class Solution {
 public:
-    int change(int amount, vector<int>& coins) {
-        vector<int64_t> dp(amount + 1, 0);
-        dp[0] = 1;
-
-        for (int coin : coins) {
-            for (int j = coin; j <= amount; ++j) {
-                dp[j] += dp[j - coin];
-
-                // Optional: clamp to avoid overflow
-                if (dp[j] > INT32_MAX) dp[j] = INT32_MAX;
-            }
+    int t[301][5001];
+    int solve(int amount, vector<int>&coins, int i){
+        if(amount==0) return 1;
+        if(i<0) return 0;
+        if(t[i][amount]!=-1) return t[i][amount];
+        int ans= 0;
+        if( coins[i] <= amount){
+            ans += solve(amount-coins[i], coins, i);
         }
-
-        return static_cast<int>(dp[amount]);
+        ans += solve(amount, coins, i-1);
+        return t[i][amount]= ans;
+    }
+    int change(int amount, vector<int>& coins) {
+        memset(t,-1,sizeof(t));
+        int ans =0;
+        int n= coins.size();
+        ans = solve(amount, coins,n-1);
+        return ans;
     }
 };
