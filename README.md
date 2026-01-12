@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/mohit7-7/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/mohit7-7/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/mohit7-7/Leetcode/tree/master/0647-palindromic-substrings) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/mohit7-7/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0749-shortest-completing-word](https://github.com/mohit7-7/Leetcode/tree/master/0749-shortest-completing-word) |
 | [0768-partition-labels](https://github.com/mohit7-7/Leetcode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/mohit7-7/Leetcode/tree/master/0778-reorganize-string) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/mohit7-7/Leetcode/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/mohit7-7/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/mohit7-7/Leetcode/tree/master/0647-palindromic-substrings) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/mohit7-7/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0747-min-cost-climbing-stairs](https://github.com/mohit7-7/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0808-number-of-matching-subsequences](https://github.com/mohit7-7/Leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0868-push-dominoes](https://github.com/mohit7-7/Leetcode/tree/master/0868-push-dominoes) |
