@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/mohit7-7/Leetcode/tree/master/0509-fibonacci-number) |
 | [0830-largest-triangle-area](https://github.com/mohit7-7/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0900-reordered-power-of-2](https://github.com/mohit7-7/Leetcode/tree/master/0900-reordered-power-of-2) |
+| [1266-minimum-time-visiting-all-points](https://github.com/mohit7-7/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mohit7-7/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/mohit7-7/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/mohit7-7/Leetcode/tree/master/1448-maximum-69-number) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/mohit7-7/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/mohit7-7/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](https://github.com/mohit7-7/Leetcode/tree/master/1073-number-of-enclaves) |
+| [1266-minimum-time-visiting-all-points](https://github.com/mohit7-7/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/mohit7-7/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mohit7-7/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/mohit7-7/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -808,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/mohit7-7/Leetcode/tree/master/0830-largest-triangle-area) |
+| [1266-minimum-time-visiting-all-points](https://github.com/mohit7-7/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/mohit7-7/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/mohit7-7/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/mohit7-7/Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
