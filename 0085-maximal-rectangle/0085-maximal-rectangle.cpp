@@ -42,6 +42,7 @@ public:
         }
          return maxarea;
     }
+    
     int maximalRectangle(vector<vector<char>>& matrix) {
         int m = matrix.size();
         int n = matrix[0].size();
