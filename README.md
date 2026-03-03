@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/mohit7-7/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/mohit7-7/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mohit7-7/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/mohit7-7/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/mohit7-7/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/mohit7-7/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/mohit7-7/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -200,12 +201,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/mohit7-7/Leetcode/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/mohit7-7/Leetcode/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/mohit7-7/Leetcode/tree/master/0509-fibonacci-number) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/mohit7-7/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/mohit7-7/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/mohit7-7/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Simulation
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/mohit7-7/Leetcode/tree/master/0498-diagonal-traverse) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/mohit7-7/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1642-water-bottles](https://github.com/mohit7-7/Leetcode/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/mohit7-7/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/mohit7-7/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
