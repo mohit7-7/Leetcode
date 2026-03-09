@@ -1,55 +1,33 @@
 class Solution {
 public:
-    const int MOD = 1e9+7;
-int zero, one, limit;
-int dp[205][205][2][205];
-
-int solve(int o, int z, int last, int streak){
-
-    if(o==0 && z==0) return 1;
-
-    int &res = dp[o][z][last][streak];
-    if(res != -1) return res;
-
-    long long ans = 0;
-
-    if(z > 0){
-        if(last == 0){
-            if(streak < limit)
-                ans += solve(o, z-1, 0, streak+1);
-        } else {
-            ans += solve(o, z-1, 0, 1);
+    int mod= 1e9+7;
+    int dp[201][201][2];
+    int solve(int zero,int one ,int last,int limit){
+        if(zero==0 && one==0) return 1;
+        if(dp[zero][one][last]!=-1) return dp[zero][one][last];
+        int result =0;
+        if(last ==1){
+            for(int len =1 ; len<= min(limit, zero);len++){
+                result = (result + solve(zero-len, one, 0,limit))%mod;
+            }
         }
+        if(last ==0){
+            for(int len = 1; len<= min(limit ,one); len++){
+                result = (result+ solve(zero, one-len , 1 , limit))%mod;
+            }
+        }
+        return dp[zero][one][last] = result;
     }
 
-    if(o > 0){
-        if(last == 1){
-            if(streak < limit)
-                ans += solve(o-1, z, 1, streak+1);
-        } else {
-            ans += solve(o-1, z, 1, 1);
+    int numberOfStableArrays(int zero, int one, int limit) {
+        memset(dp , -1 , sizeof(dp));
+        int ans=0;
+        if(zero>0){
+            ans += solve(zero, one, 0, limit);
         }
+        if(one>0){
+            ans+= solve(zero, one, 1, limit);
+        }
+        return ans%mod;
     }
-
-    return res = ans % MOD;
-}
-
-int numberOfStableArrays(int z, int o, int l) {
-
-    zero = z;
-    one = o;
-    limit = l;
-
-    memset(dp,-1,sizeof(dp));
-
-    long long ans = 0;
-
-    if(zero > 0)
-        ans += solve(one, zero-1, 0, 1);
-
-    if(one > 0)
-        ans += solve(one-1, zero, 1, 1);
-
-    return ans % MOD;
-}
 };
