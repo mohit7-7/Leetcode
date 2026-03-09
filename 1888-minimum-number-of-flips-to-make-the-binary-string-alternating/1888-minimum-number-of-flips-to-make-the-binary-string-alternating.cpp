@@ -33,8 +33,8 @@ public:
             match0 -= (s[i] == p0[i]);
             match1 -= (s[i] == p1[i]);
 
-            match0 += (s[(i+n)%n] == p0[i+n]);
-            match1 += (s[(i+n)%n] == p1[i+n]);
+            match0 += (s[i] == p0[i+n]);
+            match1 += (s[i] == p1[i+n]);
 
             ans = min(ans, min(n - match0, n - match1));
         }
