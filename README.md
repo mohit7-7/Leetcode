@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/mohit7-7/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/mohit7-7/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mohit7-7/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/mohit7-7/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/mohit7-7/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/mohit7-7/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/mohit7-7/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -724,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/mohit7-7/Leetcode/tree/master/0079-word-search) |
 | [0282-expression-add-operators](https://github.com/mohit7-7/Leetcode/tree/master/0282-expression-add-operators) |
 | [0813-all-paths-from-source-to-target](https://github.com/mohit7-7/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/mohit7-7/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/mohit7-7/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/mohit7-7/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/mohit7-7/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
