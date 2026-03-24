@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2538-minimum-cost-to-make-array-equal](https://github.com/mohit7-7/Leetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/mohit7-7/Leetcode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2625-increment-submatrices-by-one](https://github.com/mohit7-7/Leetcode/tree/master/2625-increment-submatrices-by-one) |
+| [2906-construct-product-matrix](https://github.com/mohit7-7/Leetcode/tree/master/2906-construct-product-matrix) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/mohit7-7/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/mohit7-7/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/mohit7-7/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/mohit7-7/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/mohit7-7/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/mohit7-7/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
+| [2906-construct-product-matrix](https://github.com/mohit7-7/Leetcode/tree/master/2906-construct-product-matrix) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/mohit7-7/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/mohit7-7/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/mohit7-7/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -759,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/mohit7-7/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1975-maximum-matrix-sum](https://github.com/mohit7-7/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2625-increment-submatrices-by-one](https://github.com/mohit7-7/Leetcode/tree/master/2625-increment-submatrices-by-one) |
+| [2906-construct-product-matrix](https://github.com/mohit7-7/Leetcode/tree/master/2906-construct-product-matrix) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/mohit7-7/Leetcode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/mohit7-7/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3797-design-spreadsheet](https://github.com/mohit7-7/Leetcode/tree/master/3797-design-spreadsheet) |
