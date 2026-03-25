@@ -1,39 +1,47 @@
 class Solution {
 public:
-    bool check(vector<int>&nums, int size, int d){
-        vector<long long>suffix(size, 0);
-        suffix[size-1]= nums[size-1];
-        for(int i=size-2; i>=0;i--){
-            suffix[i]= nums[i]+ suffix[i+1];
-        }
-        long long pre = 0;
-        for(int i=0;i<size;i++){
-            if(i!=0 && i%d==0) {
-                if(pre == suffix[i]) return true;
-            }
-            pre += nums[i];
-        }
-        return false;
-    }
+    typedef long long ll;
     bool canPartitionGrid(vector<vector<int>>& grid) {
         int m = grid.size();
         int n = grid[0].size();
 
-        vector<int>h1d(m*n,0);
-        for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
-                h1d[i*n+j] = grid[i][j];
+        vector<ll> rowSum(m, 0);
+        vector<ll> colSum(n, 0);
+
+        ll total = 0;
+        for(int i = 0; i < m; i++) {
+            for(int j = 0; j < n; j++) {
+                total += grid[i][j];
+                //row = i
+                rowSum[i] += grid[i][j];
+                //col = j
+                colSum[j] += grid[i][j];
             }
         }
-        int size= m*n;
-        if(check(h1d, size, n)) return true;
-        vector<int>v1d(m*n,0);
-        for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
-                v1d[j*m+i] = grid[i][j];
+
+        if(total % 2 != 0) {
+            return false;
+        }
+
+        //Horizontal split
+        ll upper = 0;
+        for(int i = 0; i < m-1; i++) {
+            upper += rowSum[i];
+            if(upper == total - upper) {
+                return true;
             }
         }
-        if(check(v1d,size, m)) return true;
+
+        //Vertical split
+        ll left = 0;
+        for(int j = 0; j < n-1; j++) {
+            left += colSum[j];
+            if(left == total - left) {
+                return true;
+            }
+        }
+
         return false;
+
     }
 };
