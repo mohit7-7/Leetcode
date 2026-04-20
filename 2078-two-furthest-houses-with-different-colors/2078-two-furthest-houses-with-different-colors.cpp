@@ -4,19 +4,15 @@ public:
         int n= colors.size();
         int i=0, j= n-1;
         int ans= 0;
-        while(i<=j){
-            if(colors[i]!= colors[j]){
-                ans = max(ans, abs(j-i));
-            }
+        while(colors[i]== colors[j]){
             j--;
         }
-        i=0 , j= n-1;
-        while(i<=j){
-            if(colors[i]!= colors[j]){
-                ans = max(ans, abs(j-i));
-            }
+        ans = max(ans, abs(j-i));
+        j= n-1;
+        while(colors[i]== colors[j]){
             i++;
         }
+        ans = max(ans , abs(j-i));
         return ans;
     }
 };
